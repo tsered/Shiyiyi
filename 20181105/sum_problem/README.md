@@ -1,4 +1,4 @@
-<h1><center>Sum Problem</center></h1>
+<h1 style="text-align:center">Sum Problem</h1>
 
 Time Limit: 1000/500 MS (Java/Others)    Memory Limit: 65536/32768 K (Java/Others)
 
