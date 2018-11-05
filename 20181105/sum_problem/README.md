@@ -1,4 +1,4 @@
-Sum Problem
+<center>Sum Problem</center>
 ===
 
 Time Limit: 1000/500 MS (Java/Others)    Memory Limit: 65536/32768 K (Java/Others)
