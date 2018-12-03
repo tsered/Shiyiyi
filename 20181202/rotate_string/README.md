@@ -28,4 +28,4 @@ dGoo
 
 ## References
 
-[小数转分数](http://cpp.zjut.edu.cn/ShowProblem.aspx?ShowID=1293)
+[旋转字串](http://cpp.zjut.edu.cn/ShowProblem.aspx?ShowID=1919)
