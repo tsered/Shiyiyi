@@ -1,0 +1,5 @@
+# ignore java class file
+*.class
+
+# ignore c out file
+*.out
